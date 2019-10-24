@@ -1,7 +1,7 @@
 # hyperledgerfarbic
 The project implements blockchain-based certificate use case using fabric network to store data, smart contract for certificate issue &amp; verification
 
-There are 3 parts: Frontend (Reactjs), Server ( Nodejs, to communicate between frontend and blockchain network), Fabric network
+There are 3 parts: Frontend (Reactjs), Server ( Nodejs, to communicate between frontend and blockchain network), Fabric network, and the smart contract written by GoLang
 
 Guide to start the project
 
@@ -30,4 +30,4 @@ cd blockchain-explorer
 
 Make sure the Postgres database is clear before run ./start.sh
 
-More infor , please go to https://github.com/hyperledger/blockchain-explorer
+More info , please go to https://github.com/hyperledger/blockchain-explorer
